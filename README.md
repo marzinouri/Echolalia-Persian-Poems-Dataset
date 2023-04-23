@@ -4,11 +4,11 @@ The Echolalia Persian Poems Dataset is a collection of nearly 2000 poems from ar
 
 ## Files
 * `scrape.py`: This file contains the code used for scraping [Echolalia](https://echolalia.ir) to extract the poems' data.
-* `poems.txt`: This file contains the collected data in JSON format.
+* `echolalia.txt`: This file contains the collected data in JSON format.
 * `links.txt`: This file contains the links to the poets' pages in JSON format.
 
 ## Data Format
-Each line of the `poems.txt` file represents a JSON object containing the following fields:
+Each line of the `echolalia.txt` file represents a JSON object containing the following fields:
 
 * title: Title of the poem.
 * link: Link to the poem's webpage on echolalia.com.
