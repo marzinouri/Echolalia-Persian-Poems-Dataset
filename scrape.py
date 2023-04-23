@@ -122,4 +122,4 @@ class Echolalia:
 echolalia = Echolalia()
 path = "links.txt"
 echolalia.get_all_poets_links(path)
-echolalia.create_dataset(path, "poems.txt")
+echolalia.create_dataset(path, "echolalia.txt")
