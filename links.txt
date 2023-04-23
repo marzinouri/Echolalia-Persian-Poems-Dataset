@@ -1,0 +1,224 @@
+{"poet_nationality": "آرژانتین", "poet_name": "ارنستو ساباتو", "poet_link": "https://echolalia.ir/category/sher/argentinian-poets/ernesto-sabato/"}
+{"poet_nationality": "ایرانی", "poet_name": "بیژن جلالی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/bijan-jalali/"}
+{"poet_nationality": "ایرانی", "poet_name": "شفیعی کدکنی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/mohammad-reza-shafiei-kadkani/"}
+{"poet_nationality": "ایرانی", "poet_name": "نادر نادرپور", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/nader-naderpour/"}
+{"poet_nationality": "ایرانی", "poet_name": "بابک زمانی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/babak-zamani/"}
+{"poet_nationality": "ایرانی", "poet_name": "خسرو گلسرخی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/khosrow-golsorkhi/"}
+{"poet_nationality": "آلمان", "poet_name": "اولا هان", "poet_link": "https://echolalia.ir/category/sher/german-poet/ulla-hahn/"}
+{"poet_nationality": "فرانسه", "poet_name": "رنه شار", "poet_link": "https://echolalia.ir/category/sher/french-poets/rene-char/"}
+{"poet_nationality": "آمریکا", "poet_name": "شل سیلور استاین", "poet_link": "https://echolalia.ir/category/sher/poets-america/shel-silverstein/"}
+{"poet_nationality": "آلمان", "poet_name": "راینر مالکوفسکی", "poet_link": "https://echolalia.ir/category/sher/german-poet/rainer-malkowski/"}
+{"poet_nationality": "انگلیس", "poet_name": "وارسان شایر", "poet_link": "https://echolalia.ir/category/sher/british-poets/warsan-shire/"}
+{"poet_nationality": "ایرانی", "poet_name": "فروغ فرخزاد", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/forough-farrokhzad/"}
+{"poet_nationality": "ایرانی", "poet_name": "احمدرضا احمدی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/ahmadreza-ahmadi/"}
+{"poet_nationality": "ایرانی", "poet_name": "واهه آرمن", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/vahe-armen/"}
+{"poet_nationality": "سوئد", "poet_name": "توماس ترانسترومر", "poet_link": "https://echolalia.ir/category/sher/sweden-poets/tomas-transtromer/"}
+{"poet_nationality": "آرژانتین", "poet_name": "خورخه لوئیس بورخس", "poet_link": "https://echolalia.ir/category/sher/argentinian-poets/jorge-luis-borges/"}
+{"poet_nationality": "آمریکا", "poet_name": "امیلی دیکنسون", "poet_link": "https://echolalia.ir/category/sher/poets-america/emily-dickinson/"}
+{"poet_nationality": "عرب", "poet_name": "مرام المصری", "poet_link": "https://echolalia.ir/category/sher/arabic-poet/maram-al-masri/"}
+{"poet_nationality": "آمریکا", "poet_name": "کارل سندبرگ", "poet_link": "https://echolalia.ir/category/sher/poets-america/carl-sandburg/"}
+{"poet_nationality": "سوئد", "poet_name": "گونار اکلوف", "poet_link": "https://echolalia.ir/category/sher/sweden-poets/gunnar-ekelof/"}
+{"poet_nationality": "آلمان", "poet_name": "مارگوت بیکل", "poet_link": "https://echolalia.ir/category/sher/german-poet/margot-bickel/"}
+{"poet_nationality": "کرواسی", "poet_name": "اِنِس کیشِویچ", "poet_link": "https://echolalia.ir/category/sher/croatian-poets/enes-kisevic/"}
+{"poet_nationality": "اسپانیا", "poet_name": "خوزه آنخل بالنته", "poet_link": "https://echolalia.ir/category/sher/spanish-poet/jose-angel-valente/"}
+{"poet_nationality": "آمریکا", "poet_name": "لنگستون هیوز", "poet_link": "https://echolalia.ir/category/sher/poets-america/langston-hughes/"}
+{"poet_nationality": "آمریکا", "poet_name": "ادگار آلن پو", "poet_link": "https://echolalia.ir/category/sher/poets-america/edgar-allan-poe/"}
+{"poet_nationality": "ایرانی", "poet_name": "شمس لنگرودی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/shams-langroudi/"}
+{"poet_nationality": "فرانسه", "poet_name": "پل ورلن", "poet_link": "https://echolalia.ir/category/sher/french-poets/paul-verlaine/"}
+{"poet_nationality": "ارمنی", "poet_name": "گئورک امین", "poet_link": "https://echolalia.ir/category/sher/armenian-poets/gevorg-emin/"}
+{"poet_nationality": "ایرانی", "poet_name": "سید مهدی موسوی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/mehdi-mousavi/"}
+{"poet_nationality": "یونان", "poet_name": "آریس آلکساندرو", "poet_link": "https://echolalia.ir/category/sher/greek-poet/aris-alexandrou/"}
+{"poet_nationality": "ترکیه", "poet_name": "تورگوت اویار", "poet_link": "https://echolalia.ir/category/sher/turkey-poet/turgut-uyar/"}
+{"poet_nationality": "انگلیس", "poet_name": "تی. اس. الیوت", "poet_link": "https://echolalia.ir/category/sher/british-poets/t-s-eliot/"}
+{"poet_nationality": "آلمان", "poet_name": "هرتا مولر", "poet_link": "https://echolalia.ir/category/sher/german-poet/herta-muller/"}
+{"poet_nationality": "ایرانی", "poet_name": "سیمین بهبهانی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/simin-behbahani/"}
+{"poet_nationality": "آفریقای‌جنوبی", "poet_name": "ربکا ندیوزی", "poet_link": "https://echolalia.ir/category/sher/south-african-poets/rebbeca-ndjoze/"}
+{"poet_nationality": "آمریکا", "poet_name": "جون بایز", "poet_link": "https://echolalia.ir/category/sher/poets-america/joan-baez/"}
+{"poet_nationality": "هلند", "poet_name": "مارتینوس نایهوف", "poet_link": "https://echolalia.ir/category/sher/dutch-poets/martinus-nijhoff/"}
+{"poet_nationality": "عرب", "poet_name": "ندي اُنسي الحاج", "poet_link": "https://echolalia.ir/category/sher/arabic-poet/nedi-ansi-al-hajj/"}
+{"poet_nationality": "ترکیه", "poet_name": "اوکتای رفعت", "poet_link": "https://echolalia.ir/category/sher/turkey-poet/oktay-rifat/"}
+{"poet_nationality": "اوکراین", "poet_name": "رزه آوسلندر", "poet_link": "https://echolalia.ir/category/sher/ukrainian-poets/rose-auslander/"}
+{"poet_nationality": "ارمنی", "poet_name": "نونا بغوسیان", "poet_link": "https://echolalia.ir/category/sher/armenian-poets/nuna-bugvsyan/"}
+{"poet_nationality": "ایرانی", "poet_name": "بیژن الهی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/bijan-elahi/"}
+{"poet_nationality": "یونان", "poet_name": "آ.کلوناريس", "poet_link": "https://echolalia.ir/category/sher/greek-poet/%da%a9%d9%84%d9%88%d9%86%d8%a7%d8%b1%d9%8a%d8%b3/"}
+{"poet_nationality": "کوردی", "poet_name": "شیرکو بیکس", "poet_link": "https://echolalia.ir/category/sher/kurdish-poets/sherko-bekas/"}
+{"poet_nationality": "آمریکا", "poet_name": "سیلویا پلات", "poet_link": "https://echolalia.ir/category/sher/poets-america/sylvia-plath/"}
+{"poet_nationality": "ایرانی", "poet_name": "سیاوش کسرایی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/siavash-kasraei/"}
+{"poet_nationality": "عرب", "poet_name": "نزار قبانی", "poet_link": "https://echolalia.ir/category/sher/arabic-poet/nizar-qabbani/"}
+{"poet_nationality": "ترکیه", "poet_name": "ییلماز گونی", "poet_link": "https://echolalia.ir/category/sher/turkey-poet/yilmaz-guney/"}
+{"poet_nationality": "آمریکا", "poet_name": "ریموند کارور", "poet_link": "https://echolalia.ir/category/sher/poets-america/raymond-carver/"}
+{"poet_nationality": "ایرانی", "poet_name": "فخرالدین عراقی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/fakhr-al-din-iraqi/"}
+{"poet_nationality": "آمریکا", "poet_name": "لیندا پاستان", "poet_link": "https://echolalia.ir/category/sher/poets-america/linda-pastan/"}
+{"poet_nationality": "آمریکا", "poet_name": "ریچارد براتیگان", "poet_link": "https://echolalia.ir/category/sher/poets-america/richard-brautigan/"}
+{"poet_nationality": "ایرانی", "poet_name": "بیدل دهلوی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/abdul-qadir-bedil/"}
+{"poet_nationality": "روسیه", "poet_name": "الکساندر بلوک", "poet_link": "https://echolalia.ir/category/sher/russian-poets/aleksandr-blok/"}
+{"poet_nationality": "اسپانیا", "poet_name": "میگوئل هرناندز", "poet_link": "https://echolalia.ir/category/sher/spanish-poet/miguel-hernandez/"}
+{"poet_nationality": "پرتغال", "poet_name": "سوفیا اندرسون", "poet_link": "https://echolalia.ir/category/sher/portuguese-poets/sophia-de-mello-breyner-andresen/"}
+{"poet_nationality": "چک", "poet_name": "میروسلاو هولوب", "poet_link": "https://echolalia.ir/category/sher/czech-poets/miroslav-holub/"}
+{"poet_nationality": "عرب", "poet_name": "عبدالوهاب بیاتی", "poet_link": "https://echolalia.ir/category/sher/arabic-poet/abd-al-wahhab-bayati/"}
+{"poet_nationality": "ایرانی", "poet_name": "هوشنگ ابتهاج", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/hushang-ebtehaj/"}
+{"poet_nationality": "روسیه", "poet_name": "یوگنی یوفتوشنکو", "poet_link": "https://echolalia.ir/category/sher/russian-poets/yevgeny-yevtushenko/"}
+{"poet_nationality": "ترکیه", "poet_name": "احمد ارهان", "poet_link": "https://echolalia.ir/category/sher/turkey-poet/ahmet-erhan/"}
+{"poet_nationality": "ایرانی", "poet_name": "اسماعیل خویی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/esmail-khoi/"}
+{"poet_nationality": "ایرانی", "poet_name": "حافظ", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/hafez/"}
+{"poet_nationality": "ترکیه", "poet_name": "ایلهان برک", "poet_link": "https://echolalia.ir/category/sher/turkey-poet/ilhan-berk/"}
+{"poet_nationality": "آفریقای‌جنوبی", "poet_name": "اسوالد متشالی", "poet_link": "https://echolalia.ir/category/sher/south-african-poets/oswald-mtshali/"}
+{"poet_nationality": "عرب", "poet_name": "انور سلمان", "poet_link": "https://echolalia.ir/category/sher/arabic-poet/anwar-salman/"}
+{"poet_nationality": "آلبانی", "poet_name": "دریتا کومو", "poet_link": "https://echolalia.ir/category/sher/albanian-poets/drita-como/"}
+{"poet_nationality": "ایرانی", "poet_name": "عباس معروفی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/abbas-maroufi/"}
+{"poet_nationality": "فرانسه", "poet_name": "آلفرد دو موسه", "poet_link": "https://echolalia.ir/category/sher/french-poets/alfred-de-musset/"}
+{"poet_nationality": "روسیه", "poet_name": "آفاناسی فیت", "poet_link": "https://echolalia.ir/category/sher/russian-poets/afanasy-fet/"}
+{"poet_nationality": "آفریقای‌جنوبی", "poet_name": "دنیس بروتوس", "poet_link": "https://echolalia.ir/category/sher/south-african-poets/dennis-brutus/"}
+{"poet_nationality": "روسیه", "poet_name": "جوزف برودسکی", "poet_link": "https://echolalia.ir/category/sher/russian-poets/joseph-brodsky/"}
+{"poet_nationality": "فرانسه", "poet_name": "الن برن", "poet_link": "https://echolalia.ir/category/sher/french-poets/alain-borne/"}
+{"poet_nationality": "فرانسه", "poet_name": "لئو فره", "poet_link": "https://echolalia.ir/category/sher/french-poets/leo-ferre/"}
+{"poet_nationality": "مجارستان", "poet_name": "اندره آدی", "poet_link": "https://echolalia.ir/category/sher/hungarian-poets/endre-ady/"}
+{"poet_nationality": "انگلیس", "poet_name": "زیگفرید ساسون", "poet_link": "https://echolalia.ir/category/sher/british-poets/siegfried-sassoon/"}
+{"poet_nationality": "آلمان", "poet_name": "برتولت برشت", "poet_link": "https://echolalia.ir/category/sher/german-poet/bertolt-brecht/"}
+{"poet_nationality": "انگلیس", "poet_name": "ادموند اسپنسر", "poet_link": "https://echolalia.ir/category/sher/british-poets/edmund-spenser/"}
+{"poet_nationality": "ایرانی", "poet_name": "سید علی صالحی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/seyed-ali-salehi/"}
+{"poet_nationality": "اسپانیا", "poet_name": "میگل د اونامونو", "poet_link": "https://echolalia.ir/category/sher/spanish-poet/miguel-de-unamuno/"}
+{"poet_nationality": "عرب", "poet_name": "جبران خلیل جبران", "poet_link": "https://echolalia.ir/category/sher/arabic-poet/kahlil-gibran/"}
+{"poet_nationality": "لهستان", "poet_name": "تادئوش روژه‌ویچ", "poet_link": "https://echolalia.ir/category/sher/poets-poland/tadeusz-rozewicz/"}
+{"poet_nationality": "هلند", "poet_name": "رمکو کامپرت", "poet_link": "https://echolalia.ir/category/sher/dutch-poets/remco-campert/"}
+{"poet_nationality": "آمریکا", "poet_name": "امی لارنس لاول", "poet_link": "https://echolalia.ir/category/sher/poets-america/amy-lowell/"}
+{"poet_nationality": "آلمان", "poet_name": "هاینریش بل", "poet_link": "https://echolalia.ir/category/sher/german-poet/heinrich-boll/"}
+{"poet_nationality": "ایرانی", "poet_name": "احمد شاملو", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/ahmad-shamlou/"}
+{"poet_nationality": "اتریشی", "poet_name": "گئورگ تراکل", "poet_link": "https://echolalia.ir/category/sher/austrian-poets/georg-trakl/"}
+{"poet_nationality": "ایرانی", "poet_name": "فاضل نظری", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/fazel-nazari/"}
+{"poet_nationality": "فرانسه", "poet_name": "ژاک پره‌ ور", "poet_link": "https://echolalia.ir/category/sher/french-poets/jacques-prevert/"}
+{"poet_nationality": "اسپانیا", "poet_name": "رافائل آلبرتی", "poet_link": "https://echolalia.ir/category/sher/spanish-poet/rafael-alberti/"}
+{"poet_nationality": "کانادا", "poet_name": "مارگارت اتوود", "poet_link": "https://echolalia.ir/category/sher/canadian-poets/margaret-atwood/"}
+{"poet_nationality": "ایرانی", "poet_name": "نادر ابراهیمی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/nader-ebrahimi/"}
+{"poet_nationality": "فرانسه", "poet_name": "گیوم آپولینر", "poet_link": "https://echolalia.ir/category/sher/french-poets/guillaume-apollinaire/"}
+{"poet_nationality": "ترکیه", "poet_name": "اورهان ولی", "poet_link": "https://echolalia.ir/category/sher/turkey-poet/orhan-veli-kanik/"}
+{"poet_nationality": "ترکیه", "poet_name": "یوسف هایال اوغلو", "poet_link": "https://echolalia.ir/category/sher/turkey-poet/yusuf-hayaloglu/"}
+{"poet_nationality": "آمریکا", "poet_name": "چارلز بوکوفسکی", "poet_link": "https://echolalia.ir/category/sher/poets-america/charles-bukowski/"}
+{"poet_nationality": "ایرانی", "poet_name": "یدالله رویایی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/yadollah-royaee/"}
+{"poet_nationality": "ایرانی", "poet_name": "نصرت رحمانی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/nosrat-rahmani/"}
+{"poet_nationality": "یونان", "poet_name": "یانیس ریتسوس", "poet_link": "https://echolalia.ir/category/sher/greek-poet/yiannis-ritsos/"}
+{"poet_nationality": "ایرانی", "poet_name": "زانیار برور", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/zanyar-burur/"}
+{"poet_nationality": "رومانی", "poet_name": "پل سلان", "poet_link": "https://echolalia.ir/category/sher/romanian-poets/paul-celan/"}
+{"poet_nationality": "روسیه", "poet_name": "سوفیا پارنوک", "poet_link": "https://echolalia.ir/category/sher/russian-poets/sophia-parnok/"}
+{"poet_nationality": "ترکیه", "poet_name": "آیتن موتلو", "poet_link": "https://echolalia.ir/category/sher/turkey-poet/ayten-mutlu/"}
+{"poet_nationality": "ایرانی", "poet_name": "رسول یونان", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/rasoul-yunan/"}
+{"poet_nationality": "آمریکا", "poet_name": "ان سکستون", "poet_link": "https://echolalia.ir/category/sher/poets-america/anne-sexton/"}
+{"poet_nationality": "ایرانی", "poet_name": "مولانا", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/rumi/"}
+{"poet_nationality": "آمریکا", "poet_name": "کریستوفر پویندکستر", "poet_link": "https://echolalia.ir/category/sher/poets-america/christopher-poindexter/"}
+{"poet_nationality": "ترکیه", "poet_name": "اوزدمیر آصف", "poet_link": "https://echolalia.ir/category/sher/turkey-poet/ozdemir-asaf/"}
+{"poet_nationality": "ایرانی", "poet_name": "نیما یوشیج", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/nima-yooshij/"}
+{"poet_nationality": "ایرانی", "poet_name": "حسین منزوی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/hossein-monzavi/"}
+{"poet_nationality": "شیلی", "poet_name": "پابلو نرودا", "poet_link": "https://echolalia.ir/category/sher/chilean-poets/pablo-neruda/"}
+{"poet_nationality": "ترکیه", "poet_name": "کوچوک اسکندر", "poet_link": "https://echolalia.ir/category/sher/turkey-poet/kucuk-iskender/"}
+{"poet_nationality": "فرانسه", "poet_name": "روبر دسنوس", "poet_link": "https://echolalia.ir/category/sher/french-poets/robert-desnos/"}
+{"poet_nationality": "ترکیه", "poet_name": "آتیلا ایلهان", "poet_link": "https://echolalia.ir/category/sher/turkey-poet/attila-ilhan/"}
+{"poet_nationality": "آمریکا", "poet_name": "والت ویتمن", "poet_link": "https://echolalia.ir/category/sher/poets-america/walt-whitman/"}
+{"poet_nationality": "شیلی", "poet_name": "نیکانور پارا", "poet_link": "https://echolalia.ir/category/sher/chilean-poets/nicanor-parra/"}
+{"poet_nationality": "آلمان", "poet_name": "هاینریش هاینه", "poet_link": "https://echolalia.ir/category/sher/german-poet/heinrich-heine/"}
+{"poet_nationality": "ایرانی", "poet_name": "بیژن نجدی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/bijan-najdi/"}
+{"poet_nationality": "ترکیه", "poet_name": "یاشار کمال", "poet_link": "https://echolalia.ir/category/sher/turkey-poet/yasar-kemal/"}
+{"poet_nationality": "انگلیس", "poet_name": "کریستینا روزتی", "poet_link": "https://echolalia.ir/category/sher/british-poets/christina-rossetti/"}
+{"poet_nationality": "ایرلندی", "poet_name": "ساموئل بکت", "poet_link": "https://echolalia.ir/category/sher/irish-poets/samuel-beckett/"}
+{"poet_nationality": "ایرانی", "poet_name": "شاعران دیگر", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/other/"}
+{"poet_nationality": "ایرانی", "poet_name": "صائب تبریزی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/saib-tabrizi/"}
+{"poet_nationality": "روسیه", "poet_name": "الکساندر پوشکین", "poet_link": "https://echolalia.ir/category/sher/russian-poets/alexander-pushkin/"}
+{"poet_nationality": "ایرانی", "poet_name": "عباس کیارستمی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/abbas-kiarostami/"}
+{"poet_nationality": "برزیل", "poet_name": "ونسیوس د مورائس", "poet_link": "https://echolalia.ir/category/sher/brazilian-poets/vinicius-de-moraes/"}
+{"poet_nationality": "ایرانی", "poet_name": "حمید مصدق", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/hamid-mossadegh/"}
+{"poet_nationality": "اسپانیا", "poet_name": "مارتا ریورا دلا کروز", "poet_link": "https://echolalia.ir/category/sher/spanish-poet/marta-rivera-de-la-cruz/"}
+{"poet_nationality": "ایرانی", "poet_name": "قیصر امین پور", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/qeysar-aminpour/"}
+{"poet_nationality": "فرانسه", "poet_name": "شارل بودلر", "poet_link": "https://echolalia.ir/category/sher/french-poets/charles-baudelaire/"}
+{"poet_nationality": "یونان", "poet_name": "کنستانتین کاوافی", "poet_link": "https://echolalia.ir/category/sher/greek-poet/constantine-cavafy/"}
+{"poet_nationality": "ایرانی", "poet_name": "سهراب سپهری", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/sohrab-sepehri/"}
+{"poet_nationality": "ژاپنی", "poet_name": "تی جو ناکامورا", "poet_link": "https://echolalia.ir/category/sher/japanese-poets/teijo-nakamura/"}
+{"poet_nationality": "آرژانتین", "poet_name": "روبرتو خواروز", "poet_link": "https://echolalia.ir/category/sher/argentinian-poets/roberto-juarroz/"}
+{"poet_nationality": "ترکیه", "poet_name": "جان یوجل", "poet_link": "https://echolalia.ir/category/sher/turkey-poet/can-yucel/"}
+{"poet_nationality": "آمریکا", "poet_name": "سوزان پولیس شوتز", "poet_link": "https://echolalia.ir/category/sher/poets-america/susan-polis-schutz/"}
+{"poet_nationality": "آمریکا", "poet_name": "اولگا بروماس", "poet_link": "https://echolalia.ir/category/sher/poets-america/olga-broumas/"}
+{"poet_nationality": "ایرانی", "poet_name": "سعدی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/saadi-shirazi/"}
+{"poet_nationality": "آلمان", "poet_name": "فریدریش نیچه", "poet_link": "https://echolalia.ir/category/sher/german-poet/friedrich-nietzsche/"}
+{"poet_nationality": "ترکیه", "poet_name": "یاووز بولنت باکیلر", "poet_link": "https://echolalia.ir/category/sher/turkey-poet/yavuz-bulent-bakiler/"}
+{"poet_nationality": "عرب", "poet_name": "محمود درویش", "poet_link": "https://echolalia.ir/category/sher/arabic-poet/mahmoud-darwish/"}
+{"poet_nationality": "ایرانی", "poet_name": "شهرام شیدایی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/shahram-sheydayi/"}
+{"poet_nationality": "ایرانی", "poet_name": "شهریار", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/shahriyar/"}
+{"poet_nationality": "لهستان", "poet_name": "هالینا پوشویاتوسکا", "poet_link": "https://echolalia.ir/category/sher/poets-poland/halina-poswiatowska/"}
+{"poet_nationality": "آمریکا", "poet_name": "ویلیام استفورد", "poet_link": "https://echolalia.ir/category/sher/poets-america/william-stafford/"}
+{"poet_nationality": "نروژ", "poet_name": "ماریان کوهن", "poet_link": "https://echolalia.ir/category/sher/norwegian-poets/marianne-cohen/"}
+{"poet_nationality": "عرب", "poet_name": "سوزان علیوان", "poet_link": "https://echolalia.ir/category/sher/arabic-poet/suzanne-alaywan/"}
+{"poet_nationality": "انگلیس", "poet_name": "توماس هاردی", "poet_link": "https://echolalia.ir/category/sher/british-poets/thomas-hardy/"}
+{"poet_nationality": "اتریشی", "poet_name": "اینگه بورگ باخمن", "poet_link": "https://echolalia.ir/category/sher/austrian-poets/ingeborg-bachmann/"}
+{"poet_nationality": "عرب", "poet_name": "غاده السمان", "poet_link": "https://echolalia.ir/category/sher/arabic-poet/ghada-al-samman/"}
+{"poet_nationality": "رومانی", "poet_name": "ماگدا هرزبرگر", "poet_link": "https://echolalia.ir/category/sher/romanian-poets/magda-herzberger/"}
+{"poet_nationality": "ترکیه", "poet_name": "عزیز نسین", "poet_link": "https://echolalia.ir/category/sher/turkey-poet/aziz-nesin/"}
+{"poet_nationality": "ایرانی", "poet_name": "عمران صلاحی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/imran-salahi/"}
+{"poet_nationality": "انگلیس", "poet_name": "ویلیام بلیک", "poet_link": "https://echolalia.ir/category/sher/british-poets/william-blake/"}
+{"poet_nationality": "ایتالیا", "poet_name": "ویتوریو آلفیری", "poet_link": "https://echolalia.ir/category/sher/italian-poets/vittorio-alfieri/"}
+{"poet_nationality": "عرب", "poet_name": "ممدوح عدوان", "poet_link": "https://echolalia.ir/category/sher/arabic-poet/mamdouh-adwan/"}
+{"poet_nationality": "عرب", "poet_name": "سعاد الصباح", "poet_link": "https://echolalia.ir/category/sher/arabic-poet/souad-al-sabah/"}
+{"poet_nationality": "ایرانی", "poet_name": "نظامی گنجوی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/nizami-ganjavi/"}
+{"poet_nationality": "ایرانی", "poet_name": "محمدعلی بهمنی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/mohammad-ali-bahmani/"}
+{"poet_nationality": "ترکیه", "poet_name": "حیدر ارگولن", "poet_link": "https://echolalia.ir/category/sher/turkey-poet/haydar-ergulen/"}
+{"poet_nationality": "فرانسه", "poet_name": "رومن رولان", "poet_link": "https://echolalia.ir/category/sher/french-poets/romain-rolland/"}
+{"poet_nationality": "آمریکا", "poet_name": "باب دیلن", "poet_link": "https://echolalia.ir/category/sher/poets-america/bob-dylan/"}
+{"poet_nationality": "ایرانی", "poet_name": "مهدی اخوان ثالث", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/mehdi-akhavan-sales/"}
+{"poet_nationality": "ایرانی", "poet_name": "یغما گلرویی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/yaghma-golrouee/"}
+{"poet_nationality": "آلمان", "poet_name": "هرمان هسه", "poet_link": "https://echolalia.ir/category/sher/german-poet/hermann-hesse/"}
+{"poet_nationality": "آفریقای‌جنوبی", "poet_name": "ایلوا ماکی", "poet_link": "https://echolalia.ir/category/sher/south-african-poets/ilva-macky/"}
+{"poet_nationality": "ایرلندی", "poet_name": "ویلیام باتلر ییتس", "poet_link": "https://echolalia.ir/category/sher/irish-poets/william-butler-yeats/"}
+{"poet_nationality": "ترکیه", "poet_name": "جمال ثریا", "poet_link": "https://echolalia.ir/category/sher/turkey-poet/cemal-sureya/"}
+{"poet_nationality": "ترکیه", "poet_name": "ناظم حکمت", "poet_link": "https://echolalia.ir/category/sher/turkey-poet/nazim-hikmet-ran/"}
+{"poet_nationality": "انگلیس", "poet_name": "چارلز دیکنز", "poet_link": "https://echolalia.ir/category/sher/british-poets/charles-dickens/"}
+{"poet_nationality": "شیلی", "poet_name": "ویکتور خارا", "poet_link": "https://echolalia.ir/category/sher/chilean-poets/victor-jara/"}
+{"poet_nationality": "ایتالیا", "poet_name": "آلدا مرینی", "poet_link": "https://echolalia.ir/category/sher/italian-poets/alda-merini/"}
+{"poet_nationality": "ایرانی", "poet_name": "حسین پناهی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/hossein-panahi/"}
+{"poet_nationality": "روسیه", "poet_name": "آنا آخماتووا", "poet_link": "https://echolalia.ir/category/sher/russian-poets/anna-akhmatova/"}
+{"poet_nationality": "ایتالیا", "poet_name": "ماسیمو بونتمپلی", "poet_link": "https://echolalia.ir/category/sher/italian-poets/massimo-bontempelli/"}
+{"poet_nationality": "آمریکا", "poet_name": "رابرت فراست", "poet_link": "https://echolalia.ir/category/sher/poets-america/robert-frost/"}
+{"poet_nationality": "ایرانی", "poet_name": "گروس عبدالملکیان", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/gross-abdul-malikian/"}
+{"poet_nationality": "فرانسه", "poet_name": "لویی آراگون", "poet_link": "https://echolalia.ir/category/sher/french-poets/louis-aragon/"}
+{"poet_nationality": "روسیه", "poet_name": "بلا آخمادولینا", "poet_link": "https://echolalia.ir/category/sher/russian-poets/bella-akhmadulina/"}
+{"poet_nationality": "روسیه", "poet_name": "ولادیمیر مایاکوفسکی", "poet_link": "https://echolalia.ir/category/sher/russian-poets/vladimir-mayakovsky/"}
+{"poet_nationality": "ایرانی", "poet_name": "محمد مختاری", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/mohammad-mokhtari/"}
+{"poet_nationality": "ایرانی", "poet_name": "فریدون مشیری", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/fereydoon-moshiri/"}
+{"poet_nationality": "آلمان", "poet_name": "فریدریش هولدرلین", "poet_link": "https://echolalia.ir/category/sher/german-poet/friedrich-holderlin/"}
+{"poet_nationality": "آمریکا", "poet_name": "جین هیرشفیلد", "poet_link": "https://echolalia.ir/category/sher/poets-america/jane-hirshfield/"}
+{"poet_nationality": "ایرانی", "poet_name": "فاطمه اختصاری", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/fatemeh-ekhtesari/"}
+{"poet_nationality": "کوردی", "poet_name": "قباد جلیزاده", "poet_link": "https://echolalia.ir/category/sher/kurdish-poets/ghobad-jolizadeh/"}
+{"poet_nationality": "پرتغال", "poet_name": "فرناندو پسوآ", "poet_link": "https://echolalia.ir/category/sher/portuguese-poets/fernando-pessoa/"}
+{"poet_nationality": "اسپانیا", "poet_name": "فدریکو گارسیا لورکا", "poet_link": "https://echolalia.ir/category/sher/spanish-poet/federico-garcia-lorca/"}
+{"poet_nationality": "بلغاری", "poet_name": "بلاگا دیمیتروا", "poet_link": "https://echolalia.ir/category/sher/bulgarian-poets/blaga-dimitrova/"}
+{"poet_nationality": "بلژیک", "poet_name": "شارل وان لربرگ", "poet_link": "https://echolalia.ir/category/sher/belgian-poets/charles-van-lerberghe/"}
+{"poet_nationality": "فرانسه", "poet_name": "پل الوار", "poet_link": "https://echolalia.ir/category/sher/french-poets/paul-eluard/"}
+{"poet_nationality": "انگلیس", "poet_name": "ورا بریتین", "poet_link": "https://echolalia.ir/category/sher/british-poets/vera-brittain/"}
+{"poet_nationality": "آمریکا", "poet_name": "الا ویلر ویلکاکس", "poet_link": "https://echolalia.ir/category/sher/poets-america/ella-wheeler-wilcox/"}
+{"poet_nationality": "لهستان", "poet_name": "تادئوش بوروفسکی", "poet_link": "https://echolalia.ir/category/sher/poets-poland/tadeusz-borowski/"}
+{"poet_nationality": "برزیل", "poet_name": "کارلوس دروموند د آندراده", "poet_link": "https://echolalia.ir/category/sher/brazilian-poets/carlos-drummond-de-andrade/"}
+{"poet_nationality": "انگلیس", "poet_name": "کریستوفر مارلو", "poet_link": "https://echolalia.ir/category/sher/british-poets/christopher-marlowe/"}
+{"poet_nationality": "فرانسه", "poet_name": "تئوفیل گوتیه", "poet_link": "https://echolalia.ir/category/sher/french-poets/theophile-gautier/"}
+{"poet_nationality": "لهستان", "poet_name": "ویسلاوا شیمبورسکا", "poet_link": "https://echolalia.ir/category/sher/poets-poland/wislawa-szymborska/"}
+{"poet_nationality": "فرانسه", "poet_name": "آندره ولتر", "poet_link": "https://echolalia.ir/category/sher/french-poets/andrew-volter/"}
+{"poet_nationality": "روسیه", "poet_name": "میخائیل لرمانتاف", "poet_link": "https://echolalia.ir/category/sher/russian-poets/mikhail-lermontov/"}
+{"poet_nationality": "ایرانی", "poet_name": "رضا براهنی", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/reza-baraheni/"}
+{"poet_nationality": "کوبا", "poet_name": "خوزه مارتی", "poet_link": "https://echolalia.ir/category/sher/cuban-poets/jose-marti/"}
+{"poet_nationality": "ارمنی", "poet_name": "مارینه پطروسیان", "poet_link": "https://echolalia.ir/category/sher/armenian-poets/marine-petrossian/"}
+{"poet_nationality": "کوردی", "poet_name": "ارسلان چلبی", "poet_link": "https://echolalia.ir/category/sher/kurdish-poets/arsalan-chalabi/"}
+{"poet_nationality": "مکزیکی", "poet_name": "اکتاویو پاز", "poet_link": "https://echolalia.ir/category/sher/mexican-poets/octavio-paz/"}
+{"poet_nationality": "انگلیس", "poet_name": "تد هیوز", "poet_link": "https://echolalia.ir/category/sher/british-poets/ted-hughes/"}
+{"poet_nationality": "ایتالیا", "poet_name": "چزاره پاوزه", "poet_link": "https://echolalia.ir/category/sher/italian-poets/cesare-pavese/"}
+{"poet_nationality": "آمریکا", "poet_name": "سارا تیس دیل", "poet_link": "https://echolalia.ir/category/sher/poets-america/sara-teasdale/"}
+{"poet_nationality": "رومانی", "poet_name": "تریستان تزارا", "poet_link": "https://echolalia.ir/category/sher/romanian-poets/tristan-tzara/"}
+{"poet_nationality": "روسیه", "poet_name": "مارینا تسوتایوا", "poet_link": "https://echolalia.ir/category/sher/russian-poets/marina-tsvetaeva/"}
+{"poet_nationality": "آلمان", "poet_name": "اریش فرید", "poet_link": "https://echolalia.ir/category/sher/german-poet/erich-fried/"}
+{"poet_nationality": "عرب", "poet_name": "آدونیس", "poet_link": "https://echolalia.ir/category/sher/arabic-poet/adunis/"}
+{"poet_nationality": "ایرانی", "poet_name": "عطار نیشابوری", "poet_link": "https://echolalia.ir/category/sher/iranian-poets/attar-of-nishapur/"}
+{"poet_nationality": "فرانسه", "poet_name": "آنا گاوالدا", "poet_link": "https://echolalia.ir/category/sher/french-poets/anna-gavalda/"}
+{"poet_nationality": "لهستان", "poet_name": "آنا اشویر", "poet_link": "https://echolalia.ir/category/sher/poets-poland/anna-swirszczynska/"}
+{"poet_nationality": "عرب", "poet_name": "مظفر النواب", "poet_link": "https://echolalia.ir/category/sher/arabic-poet/muzaffar-al-nawab/"}
+{"poet_nationality": "انگلیس", "poet_name": "الیزابت برت براونینگ", "poet_link": "https://echolalia.ir/category/sher/british-poets/elizabeth-barrett-browning/"}
+{"poet_nationality": "آمریکا", "poet_name": "تس گالاگر", "poet_link": "https://echolalia.ir/category/sher/poets-america/tess-gallagher/"}
+{"poet_nationality": "شیلی", "poet_name": "لوییس عمر لارا مندوزا", "poet_link": "https://echolalia.ir/category/sher/chilean-poets/luis-omar-lara-mendoza/"}
+{"poet_nationality": "آمریکا", "poet_name": "ادوین آرلینگتون رابینسون", "poet_link": "https://echolalia.ir/category/sher/poets-america/edwin-arlington-robinson/"}
+{"poet_nationality": "ترکیه", "poet_name": "امید یاشار اوغوزجان", "poet_link": "https://echolalia.ir/category/sher/turkey-poet/umit-yasar-oguzcan/"}
+{"poet_nationality": "ایتالیا", "poet_name": "پیر پائولو پازولینی", "poet_link": "https://echolalia.ir/category/sher/italian-poets/pier-paolo-pasolini/"}
+{"poet_nationality": "آمریکا", "poet_name": "ران ویلیس", "poet_link": "https://echolalia.ir/category/sher/poets-america/ron-willis/"}
+{"poet_nationality": "عرب", "poet_name": "سهام الشعشاع", "poet_link": "https://echolalia.ir/category/sher/arabic-poet/saham-alshasha/"}
